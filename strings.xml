@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleContactBook</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+</resources>
